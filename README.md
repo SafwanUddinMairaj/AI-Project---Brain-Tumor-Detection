@@ -1,1 +1,1 @@
-Semester Project of the "Artificial Intelligence" Course.
+Semester Project for the "Artificial Intelligence" Course.
